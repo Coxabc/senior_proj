@@ -1,4 +1,4 @@
-# Getting a Python Quarto Blog Running
+sourc# Getting a Python Quarto Blog Running
 
 ## Install uv
 
