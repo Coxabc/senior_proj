@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2026-02-19T00:37:14.800Z</lastmod>
+    <lastmod>2026-03-04T03:30:57.521Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-02-19T00:37:14.797Z</lastmod>
+    <lastmod>2026-03-04T02:34:43.461Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/about.html</loc>
@@ -19,5 +19,17 @@
   <url>
     <loc>https://your-website-url.example.com/posts/test_post/test.html</loc>
     <lastmod>2026-02-19T00:48:00.270Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coxabc.github.io/senior_proj/index.html</loc>
+    <lastmod>2026-03-04T02:34:43.461Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coxabc.github.io/senior_proj/posts/welcome/index.html</loc>
+    <lastmod>2026-03-04T23:05:20.899Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coxabc.github.io/senior_proj/about.html</loc>
+    <lastmod>2026-02-19T00:37:14.817Z</lastmod>
   </url>
 </urlset>
